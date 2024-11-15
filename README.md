@@ -17,6 +17,4 @@ Mon rôle du Copywriter, créateur de contenus, c'est de définir un ensemble de
 
 
 
-dnamsy/dnamsy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
