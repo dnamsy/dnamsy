@@ -3,7 +3,7 @@
 
  # Hello👋! Je suis MSY, consultant IT
 
- ## Transformation digitale par IA
+ ## Intégration de solutions IA
 ![IA](https://github.com/user-attachments/assets/25ea37e7-a1c8-48f4-8ae4-202b9e6d548a)
 J'accompagne les entreprises dans l’intégration de l’intelligence artificielle dans leurs métiers afin de moderniser et d’optimiser leurs opérations. J'évalue les pratiques de l’entreprise, identifie les domaines où l’IA peut avoir un impact significatif, et propose des stratégies pour intégrer des technologies d'intelligence artificielle adaptées.
 
@@ -26,7 +26,7 @@ Mon rôle du Copywriter, créateur de contenus, c'est de définir un ensemble de
 - Parmi mes principales missions du copywriting, on trouve : La rédaction de textes publicitaires, La rédaction de mails, La création de newsletters, La conception des contenus d’une page web, La production de page de vente, La définition de la charte éditoriale et L’optimisation d’un contenu
 
 
-# LE MONDE CHANGE CHAQUE SECONDE, NE RESTE PAS IMOBILE, BOUGE!
+# LE MONDE CHANGE CHAQUE SECONDE, NE RESTE PAS IMOMBILE, BOUGE!
 ## ![SS](https://github.com/user-attachments/assets/6c544225-d021-4929-8660-149bc70b907e)
 
 
