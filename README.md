@@ -8,8 +8,7 @@ Ma mission de prompt engineering c'est de transformer les capacités brutes de l
 Donnez envie aux visiteurs de consommer !☺️
 Mon rôle du Copywriter, créateur de contenus, c'est de définir un ensemble de représentations de votre marque par les mots et réussir à convaincre des clients ou des futurs partenaires de l’identité de votre produit.
 
-- 😄 Parmi mes principales missions du copywriting, on trouve :
-- ⚡La rédaction de textes publicitaires, La rédaction de mails, La création de newsletters, La conception des contenus d’une page web, La production de page de vente, La définition de la charte éditoriale et L’optimisation d’un contenu
+- 😄 Parmi mes principales missions du copywriting, on trouve : La rédaction de textes publicitaires, La rédaction de mails, La création de newsletters, La conception des contenus d’une page web, La production de page de vente, La définition de la charte éditoriale et L’optimisation d’un contenu
 
 <!---
 dnamsy/dnamsy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
