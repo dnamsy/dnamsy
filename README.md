@@ -6,7 +6,7 @@
 - 🌱 Traitement et analyse des données, Big data.
 Pour exploiter les données massives recueillies, il faut faire appel à un spécialiste du domaine ! Je suis la personne qu'il vous faut pour l'exploitation de vos données ! Je collecte, nettoie, organise et analyse de grandes quantités de données dans le but de fournir des informations pertinentes et exploitables pour les entreprises.
 - 💞️ l'ingénierie du prompt.
-Ma mission de prompt engineering c'est de transformer les capacités brutes de l'Intelligence artificielle  en solutions tangibles et personnalisées, d'explorer les possibilités offertes par cette technologie pour pousser les frontières de l’innovation, permettant ainsi de résoudre des problèmes complexes ou de développer des produits / services révolutionnaires.
+Ma mission de l'ingénierie de prompt, c'est de transformer les capacités brutes de l'Intelligence artificielle  en solutions tangibles et personnalisées, d'explorer les possibilités offertes par cette technologie pour pousser les frontières de l’innovation, permettant ainsi de résoudre des problèmes complexes ou de développer des produits / services révolutionnaires.
 - 📫 Création de contenus
 Donnez envie aux visiteurs de consommer !☺️
 Mon rôle du Copywriter, créateur de contenus, c'est de définir un ensemble de représentations de votre marque par les mots et réussir à convaincre des clients ou des futurs partenaires de l’identité de votre produit.
