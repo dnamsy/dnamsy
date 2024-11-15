@@ -2,6 +2,7 @@
 
 
  # Hello👋! Je suis MSY, consultant IT
+ ### Voici certains de mes services ci-dessous
 
  ## Intégration de solutions IA
 ![IA](https://github.com/user-attachments/assets/25ea37e7-a1c8-48f4-8ae4-202b9e6d548a)
