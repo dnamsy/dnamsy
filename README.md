@@ -1,7 +1,7 @@
 ![SY](https://github.com/user-attachments/assets/af1ee6ad-9832-41f2-ac1b-efcad3272852)
 ![SS](https://github.com/user-attachments/assets/6c544225-d021-4929-8660-149bc70b907e)
 
-- 👋 Je suis MSY, consultant informatique
+- 👋 Je suis MSY, consultant en informatique
 - 👀 J'accompagne les entreprises dans l’intégration de l’intelligence artificielle dans leurs métiers afin de moderniser et d’optimiser leurs opérations. J'évalue les pratiques de l’entreprise, identifie les domaines où l’IA peut avoir un impact significatif, et propose des stratégies pour intégrer des technologies d'intelligence artificielle adaptées.
 - 🌱 Traitement et analyse des données, Big data.
 Pour exploiter les données massives recueillies, il faut faire appel à un spécialiste du domaine ! Je suis la personne qu'il vous faut pour l'exploitation de vos données ! Je collecte, nettoie, organise et analyse de grandes quantités de données dans le but de fournir des informations pertinentes et exploitables pour les entreprises.
