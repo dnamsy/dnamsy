@@ -4,7 +4,7 @@
  # Hello👋! Je suis MSY, consultant IT
  ### Voici certains de mes services ci-dessous
 
- ## Intégration de solutions IA
+ ## Intégration de solutions d'Intelligence Artificielle /  Automatisation des tâches
 ![IA](https://github.com/user-attachments/assets/25ea37e7-a1c8-48f4-8ae4-202b9e6d548a)
 J'accompagne les entreprises dans l’intégration de l’intelligence artificielle dans leurs métiers afin de moderniser et d’optimiser leurs opérations. J'évalue les pratiques de l’entreprise, identifie les domaines où l’IA peut avoir un impact significatif, et propose des stratégies pour intégrer des technologies d'intelligence artificielle adaptées.
 
